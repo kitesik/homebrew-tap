@@ -7,7 +7,7 @@ cask "chiibar" do
   desc "Menu bar friends and house upgrades powered by Claude Code and Codex usage"
   homepage "https://github.com/kitesik/ChiiBar"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "ChiiBar.app"
 
