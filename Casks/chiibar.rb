@@ -1,6 +1,6 @@
 cask "chiibar" do
-  version "0.4.3"
-  sha256 "0bc9e640bd16b5d8062b61613d4051b50b08d1e8e7a7f3dd88ecbcbe2c219269"
+  version "0.4.4"
+  sha256 "1da30ece271c434c71a01a229e99a00d41f0f47283989c5f5ff5c138c44ecaaf"
 
   url "https://github.com/kitesik/ChiiBar/releases/download/v#{version}/ChiiBar-#{version}-universal.zip"
   name "ChiiBar"
